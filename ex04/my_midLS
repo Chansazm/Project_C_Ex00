@@ -1,1 +1,1 @@
-ls -AFU
+ls -Upt
